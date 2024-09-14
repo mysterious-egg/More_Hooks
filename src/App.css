@@ -1,0 +1,25 @@
+input{
+    background-color: beige;
+    line-height: 30px;
+    width: 30%;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 2px black;
+    padding: 3px;
+    font-size: 20px;
+    font-weight: 700;
+}
+button{
+    background-color: aquamarine;
+    line-height: 40px;
+    width: 70px;
+    border-radius: 15px;
+    box-shadow: 2px 2px 2px 2px black;
+}
+h2{
+    color: aliceblue;
+}
+body{
+    text-align: center;
+    margin: 10%;
+    background-color: rgb(11, 47, 49);
+}
